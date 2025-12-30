@@ -1,7 +1,7 @@
 # 💫 About Me:
-🌱 I’m currently learning TypeScript, Postgres, and Unity
-🔭 I'm interested in AI, ML
-🕹️ I'm currently working on game development.
+🌱 I’m currently learning TypeScript, Postgres, and Unity   
+🔭 I'm interested in AI, ML   
+🕹️ I'm currently working on game development.   
 
 
 ## 🌐 Socials:
