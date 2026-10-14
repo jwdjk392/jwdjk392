@@ -6,6 +6,7 @@
 * 🐧 I use Arch, btw.
 * 😺 Loves watching anime and playing anime games.
 * 🇰🇷 Lives in South Korea.
+* ⌨️ Prefers programming by hand. When my repository exceptionally uses AI to write code, I mention it explicitly in the README.
 
 
 ## 🌐 Socials:
